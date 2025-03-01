@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1740738325454,
+            "name": "D:\\Users\\Yuvraj B. Rathod\\Desktop\\Hotel\\Hotel-Room-Booking-System\\backend\\logs\\access\\access-2025-02-28.log",
+            "hash": "f733b3b86127d346d7ef604a76d8a4be"
+        },
+        {
+            "date": 1740803207059,
+            "name": "D:\\Users\\Yuvraj B. Rathod\\Desktop\\Hotel\\Hotel-Room-Booking-System\\backend\\logs\\access\\access-2025-03-01.log",
+            "hash": "92964b6189b2d03950a794688f40cd99"
+        }
+    ]
+}
